@@ -1,5 +1,5 @@
 ---
-description: "Freitag, 28. August bis Sonntag, 31. August 2024"
+description: "Freitag, 29. August bis Sonntag, 31. August 2024"
 featured_image: "linuxhotel_hacken_draussen.jpg"
 title: "GUUG Sommerworkshop 2025"
 ---
@@ -8,7 +8,7 @@ title: "GUUG Sommerworkshop 2025"
 
 Austausch und gemeinsames Hacken an offenen Systemen: das Linuxhotel ist der perfekte Ort dafür. 
 
-Wir treffen uns von Freitag, 28. August bis Sonntag, 31. August 2024. Die Teilnehmer gestalten
+Wir treffen uns von Freitag, 29. August bis Sonntag, 31. August 2024. Die Teilnehmer gestalten
 die Workshops selbst.
 
 Details in unseren [FAQ](pages/faq)
